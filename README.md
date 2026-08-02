@@ -1,3 +1,4 @@
+🔗 **Live app:** https://new-chat-bot-lake.vercel.app
 # Converge — AI Chat App
 
 A full-stack AI chat application built with Next.js, Supabase (auth + database), and Groq (AI responses).
